@@ -1,0 +1,28 @@
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.exe
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.deps.json
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.runtimeconfig.json
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.dll
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.pdb
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.AssemblyInfoInputs.cache
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.AssemblyInfo.cs
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.csproj.CoreCompileInputs.cache
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.dll
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\refint\Assignment 01.dll
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.pdb
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.genruntimeconfig.cache
+C:\D\RouteWork\Cycle 41\Workshops\03 OOP\Assignment 01\Demo\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\ref\Assignment 01.dll
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.exe
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.deps.json
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.runtimeconfig.json
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.dll
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\bin\Debug\net6.0\Assignment 01.pdb
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.dll
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\refint\Assignment 01.dll
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.pdb
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\Assignment 01.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Assignment 01 Solution-20250113T180949Z-001\Assignment 01 Solution\Assignment 01\obj\Debug\net6.0\ref\Assignment 01.dll
